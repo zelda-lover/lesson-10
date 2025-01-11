@@ -6,3 +6,19 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+.table {
+    display: flex;
+}
+
+.column {
+    margin-bottom: 1px;
+    width: 50%;
+}
+
+.row {
+    border: 1px black solid;
+    height: 50px;
+    margin: auto;
+    width: 100%;
+}
